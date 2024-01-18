@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135440579731",
+    "project_id": "dechonker",
+    "storage_bucket": "dechonker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135440579731:android:0b2997967509ec5e72a166",
+        "android_client_info": {
+          "package_name": "com.example.de_chonked"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqTSKoW0Et1J1l0D7HsCH4umXHRp_SoG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
